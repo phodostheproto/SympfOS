@@ -96,7 +96,7 @@ const uint64_t IMAGES[] PROGMEM ={
   0xff818181818181ff
 };
 
-Seperating the sprites out into sets
+//Seperating the sprites out into sets
 
 const uint64_t DEFAULT_FACE[] PROGMEM = {
   //used in deafaultFaceCycle

@@ -16,7 +16,7 @@ const int RESET = 5;
 
 
 const int PANELS = 6; //NUMBER OF PANELS IN CIRCUIT
-int CASE_TRACK=0
+int CASE_TRACK=0;
 
 
 /*
@@ -126,8 +126,8 @@ const uint64_t IMAGES[] PROGMEM ={
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-const int IMAGES_LEN = sizeof(IMAGES)/8;
-int RUNNING_FACE = 0;
+//const int IMAGES_LEN = sizeof(IMAGES)/8;
+//int RUNNING_FACE = 0;
 
 LedControl display = LedControl(DIN_PIN, CLK_PIN, CS_PIN, PANELS);
 
