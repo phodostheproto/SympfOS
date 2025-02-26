@@ -55,7 +55,11 @@
   0x3cfefececcc0ff7e, //Swirl5
   0x7efec7c7dfdfce40, //Swirl6
   0x7eff0333737f7f3c, //Swirl7
-  0x0273fbfbe3e37f7e,  //Swirl8
+  0x0273fbfbe3e37f7e, //Swirl8
+  0x00fe82baa2be80ff, //Swirloff1
+  0xfe82baaaaaa2be80, //Swirloff2
+  0xff017d455d417f00, //Swirloff3
+  0x017d4555555d417f, //Swirloff4
   0xff818181818181ff, //Large Square
   0x007e424242427e00, //Med Square
   0x00003c24243c0000  //Small Square
@@ -73,7 +77,8 @@
   0x0102040810204080,
   0x0102040811224488,
   0x1122448810204080,
-  0xff818181818181ff
+  0xff818181818181ff,
+  0x0000281028000000, //Small x
 
 ALGORITHM PLANNING
 
