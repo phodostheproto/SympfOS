@@ -1,0 +1,10 @@
+https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf - ESP32 S3 Docs
+
+https://docs.espressif.com/projects/arduino-esp32/en/latest/libraries.html#apis - ESP32 Arduino Support
+
+https://www.wemos.cc/en/latest/s3/s3_mini.html - S3 Mini Docs
+
+https://dronebotworkshop.com/platformio/ - PlatformIO tutorial
+
+https://docs.arduino.cc/hardware/nano/ - Nano Docs
+

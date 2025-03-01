@@ -2,10 +2,11 @@
 //This File is using example code and will be fleshed out once ready
 #include <LedControl.h>
 #include "Sprites.h"
-//PIN DECLARATIONS
-const int DIN_PIN = 11;
-const int CS_PIN = 7;
-const int CLK_PIN = 13;
+//PIN DECLARATIONS NANO
+const int DIN_PIN = 11; //GREEN WIRE
+const int CS_PIN = 7;   //RED WIRE
+const int CLK_PIN = 13; //BLUE
+
 
 //SWITCHES FOR REMOTE
 const int BOOP2 = A2; //WILL BE USED FOR A CAPACITIVE SENSOR
